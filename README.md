@@ -1,3 +1,4 @@
+![572277](https://user-images.githubusercontent.com/52717632/122947299-0cc0cc80-d348-11eb-94fb-6bd0bf906183.jpeg)
 # Projeto Podcastr - Trilha React.Js (NLW 5) :rocket:
 
 ## O que será desenvolvido?
@@ -5,6 +6,19 @@
 1. Uma página principal com a lista de podcasts (organizados em "Últimos lançamentos" e "Todos os episódios");
 2. Um player que toca o episódio selecionado (o usuário pode interagir com o player, pausando, avançando e retrocedendo os episódios, além de funções de *shuffle*, que permite a aleatoriedade dos conteúdos, e *repeat* do episódio que está sendo ouvido);
 3. Ao clicar nos títulos dos episódios, uma página contendo informações detalhadas é renderizada ao usuário.
+
+## Instruções para clonar o repositório
+
+1. Clone o repositório
+  * `git clone git@github.com:AndersonSilva94/podcastr.git`.
+  * Entre na pasta do repositório que você acabou de clonar:
+    * `podcastr`
+
+2. Instalação
+  * Instale as dependências:
+    * `npm install`
+  * Inicialize o projeto:
+    * `npm run dev` && `npm run server`
 
 ## Dia 1 - React e Next.Js :rocket:
 - [x] Fluxo de uma API
@@ -48,6 +62,11 @@
 - [x] Controle de *shuffle*
 - [x] Controle de tempo atual
 - [x] Controle pelo slider
+
+## Projeto Final :trophy:
+![Captura de tela de 2021-06-22 10-04-10](https://user-images.githubusercontent.com/52717632/122948613-08e17a00-d349-11eb-8128-7cd06c267586.jpg)
+![Captura de tela de 2021-06-22 10-03-37](https://user-images.githubusercontent.com/52717632/122948753-26164880-d349-11eb-8fac-028e10b63256.jpg)
+![Captura de tela de 2021-06-22 10-03-55](https://user-images.githubusercontent.com/52717632/122948981-4d6d1580-d349-11eb-85d7-bdd6174462b6.jpg)
 
 ---
 :keyboard: com :purple_heart: por [Anderson Silva (Andy)](https://www.linkedin.com/in/andssilva/) 😊
