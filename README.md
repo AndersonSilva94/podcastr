@@ -64,9 +64,9 @@
 - [x] Controle pelo slider
 
 ## Projeto Final :trophy:
-![Captura de tela de 2021-06-22 10-04-10](https://user-images.githubusercontent.com/52717632/122948613-08e17a00-d349-11eb-8128-7cd06c267586.jpg)
-![Captura de tela de 2021-06-22 10-03-37](https://user-images.githubusercontent.com/52717632/122948753-26164880-d349-11eb-8fac-028e10b63256.jpg)
-![Captura de tela de 2021-06-22 10-03-55](https://user-images.githubusercontent.com/52717632/122948981-4d6d1580-d349-11eb-85d7-bdd6174462b6.jpg)
+![Captura de tela de 2021-06-22 10-04-10](https://user-images.githubusercontent.com/52717632/123229472-53c3d480-d4a4-11eb-95dd-5b935b11170c.jpg)
+![Captura de tela de 2021-06-22 10-03-37](https://user-images.githubusercontent.com/52717632/123229635-7ce46500-d4a4-11eb-8983-1a7700c64e6a.jpg)
+![Captura de tela de 2021-06-22 10-03-55](https://user-images.githubusercontent.com/52717632/123229725-8ff73500-d4a4-11eb-9308-c1877c05cb0c.jpg)
 
 ---
 :keyboard: com :purple_heart: por [Anderson Silva (Andy)](https://www.linkedin.com/in/andssilva/) 😊
